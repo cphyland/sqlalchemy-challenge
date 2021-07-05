@@ -20,5 +20,4 @@ Station = Base.classes.station
 session = Session(engine)
 
 # setting up flask
-app = Flask(__name__)
-
+app = Flask(_name_)
